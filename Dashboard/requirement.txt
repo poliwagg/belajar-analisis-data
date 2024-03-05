@@ -74,7 +74,6 @@ parso==0.8.3
 Pillow==10.1.0
 pipenv==2023.10.24
 platformdirs==3.11.0
-plotly
 prometheus_client==0.20.0
 prompt-toolkit==3.0.41
 protobuf==4.25.1

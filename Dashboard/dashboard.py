@@ -55,8 +55,6 @@ plt.xticks(range(0, 24))
 plt.legend()
 plt.grid(True)
 plt.tight_layout()
-plt.show()
-
 
 st.pyplot(plt)
 
